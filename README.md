@@ -8,3 +8,7 @@ Test repo for git / github lesson
 
 # Creator
 Beatriz ia a Data Analyst for FSUCML. She can be reached via email at [bmejiamercado@fsu.edu](mailto:bmejiamercado@fsu.edu)
+
+## Collaborator
+
+Hello! 
