@@ -1,4 +1,4 @@
-# beatriz_test
+# Soraida title 
 Test repo for git / github lesson
 
 # Purpose
@@ -12,3 +12,4 @@ Beatriz ia a Data Analyst for FSUCML. She can be reached via email at [bmejiamer
 ## Collaborator
 
 Hello! 
+
